@@ -46,7 +46,7 @@
     </param>
     <param>
       <key>id</key>
-      <value>am_receiver_rsp1a_testc</value>
+      <value>am_receiver_rsp1a</value>
     </param>
     <param>
       <key>max_nouts</key>
@@ -1955,7 +1955,7 @@
     <key>sdrplay_rsp1a_source</key>
     <param>
       <key>agc_enabled</key>
-      <value>False</value>
+      <value>True</value>
     </param>
     <param>
       <key>bw</key>
